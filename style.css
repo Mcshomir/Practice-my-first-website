@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+
+h1 {
+    height: 30px;
+    margin: 20px;
+
+}
+
+h3 {
+    margin: 20px;
+}
+
+p {
+    color: gray;
+    margin: 20px;
+}
+
+.first-area {
+    display: flex;
+    padding: 20px;
+
+}
+
+.half-width {
+    width: 50%;
+
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.link-button {
+    text-decoration: none;
+    padding: 10px 40px;
+    margin-left: 20px;
+    background-image: linear-gradient(to left, tomato, orange);
+    border-radius: 15px;
+
+}
+
+
+
+
+/* second part start  */
+.second-banner {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+/* third part style from here */
+h2 {
+    margin: 20px;
+}
+
+.div {
+    box-shadow: 10px 10px 40px gray;
+    margin: 20px;
+    border-radius: 10px;
+    height: 400px;
+    padding: 50px;
+    border-radius: 15px;
+
+}
+
+.third-part {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.border-one {
+    border-left: 6px solid tomato;
+}
+
+.border-two {
+    border-left: 6px solid blue;
+}
